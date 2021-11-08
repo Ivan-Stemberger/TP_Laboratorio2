@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\bin\Debug\net5.0\TPFinal.ClassLibrary.deps.json
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\bin\Debug\net5.0\TPFinal.ClassLibrary.dll
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\bin\Debug\net5.0\ref\TPFinal.ClassLibrary.dll
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\bin\Debug\net5.0\TPFinal.ClassLibrary.pdb
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.dll
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\ref\TPFinal.ClassLibrary.dll
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.pdb
+C:\Users\Usuario\source\repos\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.csproj.AssemblyReference.cache
