@@ -17,7 +17,10 @@ namespace TPFinal.ClassLibrary
         {
             lista = list;
         }
-
+        /// <summary>
+        /// Exporta un file con la información deseada por el usuario. El string filtro sirve para la formación del nombre del archivo.
+        /// </summary>
+        /// <param name="filtro">string para nombrar el file.</param>
         public void exportAnalisis(string filtro)
         {
             string name = "Analisis" + typeof(T).Name + filtro + ".xml";
@@ -36,7 +39,9 @@ namespace TPFinal.ClassLibrary
 
             }
         }
-
+        /// <summary>
+        /// Exporta la totalidad de las partidas del juego deseado.
+        /// </summary>
         public void exportAll()
         {
             string name = "Complete list of " + typeof(T).Name + " games.xml";
@@ -56,6 +61,10 @@ namespace TPFinal.ClassLibrary
             }
 
         }
+        /// <summary>
+        /// Importa un archivo en función del tipo deseado, lo carga en una Lista y lo devuelve.
+        /// </summary>
+        /// <returns>Devuelve una lista de un objeto con la información leída del file.</returns>
         public List<T> Import()
         {
             string name = "Complete list of " + typeof(T).Name + " games.xml";

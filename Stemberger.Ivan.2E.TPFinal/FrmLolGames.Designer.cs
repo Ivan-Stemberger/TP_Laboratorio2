@@ -30,7 +30,6 @@ namespace Stemberger.Ivan._2E.TPFinal
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.btnVolver = new System.Windows.Forms.Button();
             this.btnExport = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -43,15 +42,6 @@ namespace Stemberger.Ivan._2E.TPFinal
             this.dataGridView1.RowTemplate.Height = 25;
             this.dataGridView1.Size = new System.Drawing.Size(546, 278);
             this.dataGridView1.TabIndex = 0;
-            // 
-            // btnVolver
-            // 
-            this.btnVolver.Location = new System.Drawing.Point(12, 28);
-            this.btnVolver.Name = "btnVolver";
-            this.btnVolver.Size = new System.Drawing.Size(75, 23);
-            this.btnVolver.TabIndex = 1;
-            this.btnVolver.Text = "Volver";
-            this.btnVolver.UseVisualStyleBackColor = true;
             // 
             // btnExport
             // 
@@ -69,7 +59,6 @@ namespace Stemberger.Ivan._2E.TPFinal
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnExport);
-            this.Controls.Add(this.btnVolver);
             this.Controls.Add(this.dataGridView1);
             this.Name = "FrmLolGames";
             this.Text = "FrmLolRegion";
@@ -81,7 +70,6 @@ namespace Stemberger.Ivan._2E.TPFinal
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.Button btnVolver;
         private System.Windows.Forms.Button btnExport;
     }
 }

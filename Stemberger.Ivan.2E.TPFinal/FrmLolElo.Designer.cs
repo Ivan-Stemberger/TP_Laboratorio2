@@ -30,7 +30,6 @@ namespace Stemberger.Ivan._2E.TPFinal
         private void InitializeComponent()
         {
             this.dtgvLolElo = new System.Windows.Forms.DataGridView();
-            this.brnBack = new System.Windows.Forms.Button();
             this.btnDownload = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvLolElo)).BeginInit();
             this.SuspendLayout();
@@ -43,15 +42,6 @@ namespace Stemberger.Ivan._2E.TPFinal
             this.dtgvLolElo.RowTemplate.Height = 25;
             this.dtgvLolElo.Size = new System.Drawing.Size(561, 251);
             this.dtgvLolElo.TabIndex = 0;
-            // 
-            // brnBack
-            // 
-            this.brnBack.Location = new System.Drawing.Point(12, 12);
-            this.brnBack.Name = "brnBack";
-            this.brnBack.Size = new System.Drawing.Size(75, 23);
-            this.brnBack.TabIndex = 1;
-            this.brnBack.Text = "Volver";
-            this.brnBack.UseVisualStyleBackColor = true;
             // 
             // btnDownload
             // 
@@ -69,7 +59,6 @@ namespace Stemberger.Ivan._2E.TPFinal
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnDownload);
-            this.Controls.Add(this.brnBack);
             this.Controls.Add(this.dtgvLolElo);
             this.Name = "FrmLolElo";
             this.Text = "FrmLolElo";
@@ -81,7 +70,6 @@ namespace Stemberger.Ivan._2E.TPFinal
         #endregion
 
         private System.Windows.Forms.DataGridView dtgvLolElo;
-        private System.Windows.Forms.Button brnBack;
         private System.Windows.Forms.Button btnDownload;
     }
 }

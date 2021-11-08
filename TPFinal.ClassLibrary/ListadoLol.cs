@@ -40,6 +40,9 @@ namespace TPFinal.ClassLibrary
             return listaLolDefinitiva;
         }
 
+        /// <summary>
+        /// Completa la lista de partidas de Lol. Se utiliza si no se puede leer el file, si no existe o si está vacío/corrupto.
+        /// </summary>
         public static void populateLolList()
         {
             listaLol.Add(new Lol(Lol.EChamp.Caitlyn, Lol.ERole.ADC, Lol.ERank.Gold,1,1));
@@ -63,7 +66,10 @@ namespace TPFinal.ClassLibrary
             listaLol.Add(new Lol(Lol.EChamp.Caitlyn, Lol.ERole.ADC, Lol.ERank.Gold, 1, 19));
 
         }
-
+        /// <summary>
+        /// Crea una lista definitiva de partidas en función del filtro establecido. Es utilizada para evitar la repetición de champions.
+        /// </summary>
+        /// <param name="filtrada"></param>
         public static void populateListaDefinitiva(List<Lol> filtrada)
         {
             listaLolDefinitiva.Clear();
@@ -98,7 +104,10 @@ namespace TPFinal.ClassLibrary
             }
 
         }
-
+        /// <summary>
+        /// Establece un filtro en función del rol deseado
+        /// </summary>
+        /// <param name="role">Rol para filtrar.</param>
         public static void filtroLolRole(string role)
         {
             
@@ -111,7 +120,10 @@ namespace TPFinal.ClassLibrary
             }
 
         }
-
+        /// <summary>
+        /// Filtra en función del Elo seleccionado
+        /// </summary>
+        /// <param name="elo">Elo utilizado para el filtro.</param>
         public static void filtroLolElo(string elo)
         {
             listaLolElo.Clear();
@@ -124,7 +136,11 @@ namespace TPFinal.ClassLibrary
             }
 
         }
-
+        /// <summary>
+        /// Elimina la partida en función del id proporcionado
+        /// </summary>
+        /// <param name="id">Id de la partida a eliminar</param>
+        /// <returns>Devuelve True si encuentra la partida y la borra, False si no.</returns>
         public static bool deleteLol(int id)
         {
             
@@ -139,7 +155,11 @@ namespace TPFinal.ClassLibrary
             }
             return false;
         }
-
+        /// <summary>
+        /// Verifica la existencia una partica en función del ID
+        /// </summary>
+        /// <param name="id">Id proporcionado para verificar</param>
+        /// <returns>Devuleve true si encuentra la partida, false si no.</returns>
         public static bool searchId(int id)
         {
             foreach (Lol item in listaLol)
@@ -152,7 +172,11 @@ namespace TPFinal.ClassLibrary
 
             return false;
         }
-
+        /// <summary>
+        /// Edita una partida determinada
+        /// </summary>
+        /// <param name="game">Partida proporcionada por el usuario</param>
+        /// <param name="id">id de la partida para buscarla.</param>
         public static void editList(Lol game,int id)
         {
             foreach(Lol item in listaLol)
@@ -166,7 +190,11 @@ namespace TPFinal.ClassLibrary
                 }
             }
         }
-        
+        /// <summary>
+        /// Devuelve una partida en función del ID.
+        /// </summary>
+        /// <param name="id">Id de la partida</param>
+        /// <returns>La partida si encuentra el game, null si no.</returns>
         public static Lol getGame(int id)
         {
             foreach(Lol item in listaLol)
