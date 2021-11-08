@@ -16,7 +16,6 @@ C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\bin\Debug\net5.0\TP
 C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\bin\Debug\net5.0\TPFinal.ClassLibrary.dll
 C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\bin\Debug\net5.0\ref\TPFinal.ClassLibrary.dll
 C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\bin\Debug\net5.0\TPFinal.ClassLibrary.pdb
-C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.csproj.AssemblyReference.cache
 C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
 C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.csproj.ResolveComReference.cache
 C:\Users\Usuario\source\repos\Labo2_TP3\TPFinal.ClassLibrary\obj\Debug\net5.0\TPFinal.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig

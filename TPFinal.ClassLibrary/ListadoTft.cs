@@ -44,6 +44,9 @@ namespace TPFinal.ClassLibrary
             return listaTft;
         }
 
+        /// <summary>
+        /// Completa la lista de partidas de Tft. Se utiliza si no se puede leer el file, si no existe o si está vacío/corrupto.
+        /// </summary>
         public static void populateTftList()
         {
             listaTft.Add(new Tft(1,Tft.Ecomposition.Tanks, Tft.ERank.Gold,Tft.EPosition.First));
@@ -60,7 +63,10 @@ namespace TPFinal.ClassLibrary
             listaTft.Add(new Tft(12, Tft.Ecomposition.Tanks, Tft.ERank.Gold, Tft.EPosition.Fifth));
 
         }
-
+        /// <summary>
+        /// Crea una lista definitiva de partidas en función del filtro establecido. Es utilizada para evitar la repetición de champions.
+        /// </summary>
+        /// <param name="filtrada">lista filtrada</param>
         public static void populateListaDefinitiva(List<Tft> filtrada)
         {
             listaTftDefinitiva.Clear();
@@ -94,7 +100,10 @@ namespace TPFinal.ClassLibrary
             }
 
         }
-
+        /// <summary>
+        /// Establece un filtro en función del elo deseado
+        /// </summary>
+        /// <param name="elo">Elo para filtrar.</param>
         public static void filtroTftRank(string elo)
         {
             listaTftElo.Clear();
@@ -107,7 +116,11 @@ namespace TPFinal.ClassLibrary
             }
 
         }
-
+        /// <summary>
+        /// Verifica la existencia una partica en función del ID
+        /// </summary>
+        /// <param name="id">Id proporcionado para verificar</param>
+        /// <returns>Devuleve true si encuentra la partida, false si no.</returns>
         public static bool searchId(int id)
         {
             foreach (Tft item in listaTft)
@@ -121,6 +134,11 @@ namespace TPFinal.ClassLibrary
             return false;
         }
 
+        /// <summary>
+        /// Edita una partida determinada
+        /// </summary>
+        /// <param name="game">Partida proporcionada por el usuario</param>
+        /// <param name="id">id de la partida para buscarla.</param>
         public static void editList(Tft game, int id)
         {
             foreach (Tft item in listaTft)
@@ -135,6 +153,11 @@ namespace TPFinal.ClassLibrary
             }
         }
 
+        /// <summary>
+        /// Devuelve una partida en función del ID.
+        /// </summary>
+        /// <param name="id">Id de la partida</param>
+        /// <returns>La partida si encuentra el game, null si no.</returns>
         public static Tft getGame(int id)
         {
             foreach (Tft item in listaTft)
@@ -147,6 +170,11 @@ namespace TPFinal.ClassLibrary
 
             return null;
         }
+        /// <summary>
+        /// Elimina la partida en función del id proporcionado
+        /// </summary>
+        /// <param name="id">Id de la partida a eliminar</param>
+        /// <returns>Devuelve True si encuentra la partida y la borra, False si no.</returns>
         public static bool deleteTft(int id)
         {
 
