@@ -304,7 +304,7 @@ namespace TPFinal.ClassLibrary
 
 
             }
-            catch (Exception)
+            catch (SqlException ex)
             {
                 throw;
             }
