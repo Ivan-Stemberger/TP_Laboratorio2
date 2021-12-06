@@ -138,83 +138,24 @@ namespace TPFinal.ClassLibrary
             return 0;
         }
         
-        
-        public void setPickRate(List<Lol> list, Lol game)
+        /// <summary>
+        /// Hace el cálculo estadístico en función de la información proporcionada.
+        /// </summary>
+        /// <param name="cantidad">Cantidad parcial de elementos</param>
+        /// <param name="total">Cantidad total de elementos</param>
+        /// <returns>Devuelve un porcentaje</returns>
+        public double calcularRate(int cantidad, int total)
         {
-            double counter = 0;
-
-            foreach (Lol item in list)
-            {
-                if (item.champion == game.champion && item.role == game.role && item.rank == game.rank 
-                    && item.region == game.region)
-                {
-                    counter++;
-                }
-            }
-            
-        }
-
-        public void setEloPickRate(List<Lol> list, Lol game)
-        {
-            double counter = 0;
-
-            foreach (Lol item in list)
-            {
-                if (item.champion == game.champion && item.rank == game.rank)
-                {
-                    counter++;
-                }
-            }
-            
-
-        }
-
-        public void setEloWinRate(List<Lol> lol, Lol game)
-        {
-            int counterChamp = 0;
-            int counterWin = 0;
-
-            foreach (Lol item in lol)
-            {
-                if (item.champion == game.champion && item.rank == game.rank)
-
-                {
-                    counterChamp++;
-                    if (item.Win == 1)
-                    {
-                        counterWin++;
-                    }
-                }
-            }
-
-        }
-
-        public double calcularRate(int win, int champ)
-        {
-            double rate = (double)win / champ * 100;
+            double rate = (double)cantidad / total * 100;
             return Math.Round(rate,2);
         }
         
-        public void setWinRate(List<Lol> lol, Lol game)
-        {
-            int counterChamp = 0;
-            double counterWin = 0;
-
-            foreach (Lol item in lol)
-            {
-                if (item.champion == game.champion && item.role == game.role && item.rank == game.rank 
-                    && item.region == game.region)
-                {
-                    counterChamp++;
-                    if(item.Win == 1)
-                    {
-                        counterWin++;
-                    }
-                }
-            }
-
-        }
-
+        /// <summary>
+        /// Realiza el análisis global de Win Rate o Pick Rate en función del flag recibido
+        /// </summary>
+        /// <param name="champion">Personaje sobre el que se realizará el análisis</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <returns>Devuelve un string con el cálculo realizado para ser mostrado en el formulario.</returns>
         public string analisisGlobal(string champion, int flag)
         {
             List<Lol> lista;
@@ -236,7 +177,13 @@ namespace TPFinal.ClassLibrary
             }
             return $"{promedio}%";
         }
-
+        /// <summary>
+        /// Realiza un análisis del Win Rate o Pick Rate en función del flag, de cada Región y 
+        /// determina cual es la región con mayor Pick o Win Rate
+        /// </summary>
+        /// <param name="champion">Personaje sobre el que se realizará el análisis</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <returns>El nombre de la región y el resultado del cálculo estadístico.</returns>
         public string analisisRegionMayor(string champion, int flag)
         {
             List<Lol> lista;
@@ -276,7 +223,13 @@ namespace TPFinal.ClassLibrary
             }            
             return $"{(ERegion)numeroAnterior}: {promedioAnterior}%";
         }
-
+        /// <summary>
+        /// Realiza un análisis del Win Rate o Pick Rate en función del flag, de cada Región y 
+        /// determina cual es la región con menor Pick o Win Rate
+        /// </summary>
+        /// <param name="champion">Personaje sobre el que se realizará el análisis</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <returns>El nombre de la región y el resultado del cálculo estadístico.</returns>
         public string analisisRegionMenor(string champion, int flag)
         {
             List<Lol> lista;
@@ -318,7 +271,13 @@ namespace TPFinal.ClassLibrary
             return $"{(ERegion)numeroAnterior}: {promedioAnterior}%";
 
         }
-
+        /// <summary>
+        /// Calcula el promedio de la región en función del flag y devuelve un porcentaje.
+        /// </summary>
+        /// <param name="filtro">Puede ser una región o un campeón, dependiendo de si el flag es 0 o 1 respectivamente.</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <param name="lista">Lista de partidas de Lol sobre la cual se hará el cálculo</param>
+        /// <returns></returns>
         public double promedioRegion(string filtro, int flag, List<Lol> lista)
         {
             List<Lol> listaAux; 
@@ -347,7 +306,13 @@ namespace TPFinal.ClassLibrary
             }
             return promedio;
         }
-
+        /// <summary>
+        /// Realiza un análisis del Win Rate o Pick Rate en función del flag, de cada Rol y 
+        /// determina cual es el rol con mayor Pick o Win Rate
+        /// </summary>
+        /// <param name="champion">Personaje sobre el que se realizará el análisis</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <returns>El rol y el resultado del cálculo estadístico.</returns>
         public string analisisRolMayor(string champion, int flag)
         {
             List<Lol> lista;
@@ -389,7 +354,13 @@ namespace TPFinal.ClassLibrary
             return $"{(ERole)numeroAnterior}: {promedioAnterior}%";
 
         }
-
+        /// <summary>
+        /// Realiza un análisis del Win Rate o Pick Rate en función del flag, de cada rol y 
+        /// determina cual es que tiene menor Pick o Win Rate
+        /// </summary>
+        /// <param name="champion">Personaje sobre el que se realizará el análisis</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <returns>El nombre del rol y el resultado del cálculo estadístico.</returns>
         public string analisisRolMenor(string champion, int flag)
         {
             List<Lol> lista;
@@ -431,7 +402,13 @@ namespace TPFinal.ClassLibrary
             return $"{(ERole)numeroAnterior}: {promedioAnterior}%";
 
         }
-
+        /// <summary>
+        /// Calcula el promedio del rol en función del flag y devuelve un porcentaje.
+        /// </summary>
+        /// <param name="filtro">Puede ser un rol o un campeón, dependiendo de si el flag es 0 o 1 respectivamente.</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <param name="lista">Lista de partidas de Lol sobre la cual se hará el cálculo</param>
+        /// <returns></returns>
         public double promedioRol(string filtro, int flag, List<Lol> lista)
         {
             List<Lol> listaAux;
@@ -460,7 +437,13 @@ namespace TPFinal.ClassLibrary
             }
             return promedio;
         }
-
+        /// <summary>
+        /// Realiza un análisis del Win Rate o Pick Rate en función del flag, de cada elo y 
+        /// determina cual es el que tiene mayor Pick o Win Rate
+        /// </summary>
+        /// <param name="champion">Personaje sobre el que se realizará el análisis</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <returns>El elo y el resultado del cálculo estadístico.</returns>
         public string analisisEloMayor(string champion, int flag)
         {
             List<Lol> lista;
@@ -502,7 +485,13 @@ namespace TPFinal.ClassLibrary
             return $"{(ERank)numeroAnterior}: {promedioAnterior}%";
 
         }
-
+        /// <summary>
+        /// Realiza un análisis del Win Rate o Pick Rate en función del flag, de cada elo y 
+        /// determina cual es que tiene menor Pick o Win Rate
+        /// </summary>
+        /// <param name="champion">Personaje sobre el que se realizará el análisis</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <returns>El elo y el resultado del cálculo estadístico.</returns>
         public string analisisEloMenor(string champion, int flag)
         {
             List<Lol> lista;
@@ -545,7 +534,13 @@ namespace TPFinal.ClassLibrary
 
         }
 
-
+        /// <summary>
+        /// Calcula el promedio del rol en función del flag y devuelve un porcentaje.
+        /// </summary>
+        /// <param name="filtro">Puede ser un rol o un campeón, dependiendo de si el flag es 0 o 1 respectivamente.</param>
+        /// <param name="flag">0 = Win Rate, 1 = Pick Rate</param>
+        /// <param name="lista">Lista de partidas de Lol sobre la cual se hará el cálculo</param>
+        /// <returns></returns>
         public double promedioRank(string filtro, int flag, List<Lol> lista)
         {
             List<Lol> listaAux;

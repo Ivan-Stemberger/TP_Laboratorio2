@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj",
         "projectName": "Stemberger.Ivan.2E.TPFinal",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Stemberger.Ivan.2E.TPFinal\\Stemberger.Ivan.2E.TPFinal.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Stemberger.Ivan.2E.TPFinal\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Stemberger.Ivan.2E.TPFinal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Test\\Test.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Test\\Test.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Test\\Test.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Test\\Test.csproj"
               },
-              "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Test\\Test.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
         "projectName": "TPFinal.ClassLibrary",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

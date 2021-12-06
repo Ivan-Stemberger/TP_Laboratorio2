@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
         "projectName": "TPFinal.ClassLibrary",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\TPFinal.ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\TP 4\\TPFinal.ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Labo2_TP3\\Recuperatorios\\TP 4\\TPFinal.ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
