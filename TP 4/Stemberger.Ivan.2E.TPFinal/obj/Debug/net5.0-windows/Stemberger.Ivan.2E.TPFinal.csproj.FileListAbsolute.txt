@@ -1,0 +1,120 @@
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.exe
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.deps.json
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.runtimeconfig.json
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\ref\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.pdb
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\ref\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.pdb
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.deps.json
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.runtimeconfig.json
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.exe
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.dll
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\TPFinal.ClassLibrary.dll
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.pdb
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\TPFinal.ClassLibrary.pdb
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLol.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmLolElo.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmSelection.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolSelectElo.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmLolSelectRole.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolRole.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolAbm.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmLolGames.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftRank.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftSelection.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftSelectRank.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftAbm.resources
+C:\Users\Usuario\source\repos\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftGame.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.deps.json
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.runtimeconfig.json
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.exe
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.exe
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.deps.json
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.runtimeconfig.json
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\ref\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\TPFinal.ClassLibrary.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\TPFinal.ClassLibrary.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLol.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolAbm.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmLolElo.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmLolGames.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolRole.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolSelectElo.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmLolSelectRole.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmSelection.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftAbm.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftGame.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftRank.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftSelection.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftSelectRank.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\ref\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.deps.json
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.runtimeconfig.json
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.exe
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.exe
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.deps.json
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.runtimeconfig.json
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\ref\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\TPFinal.ClassLibrary.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\Test.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\bin\Debug\net5.0-windows\TPFinal.ClassLibrary.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLol.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolAbm.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmLolAnalisis.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmLolGames.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.FrmSelection.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftAbm.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftSelection.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\ref\Stemberger.Ivan.2E.TPFinal.dll
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.pdb
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan.2E.TPFinal.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftAnalisis.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.frmTftGames.resources
+C:\Users\Usuario\source\repos\Labo2_TP3\TP 4\Stemberger.Ivan.2E.TPFinal\obj\Debug\net5.0-windows\Stemberger.Ivan._2E.TPFinal.Properties.Resources.resources
